@@ -1,0 +1,10 @@
+Teste para verificar como o git funciona. Linha 1
+Teste para verificar como o git funciona. Linha 2
+Teste para verificar como o git funciona. Linha 3
+Teste para verificar como o git funciona. Linha 4
+
+
+
+
+Teste para verificar como o git funciona. Linha 9
+Teste para verificar como o git funciona. Linha 10
